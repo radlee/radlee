@@ -4,9 +4,9 @@
 
 - 👋 Hi, I’m @radlee
 - 👀 I’m interested in HTML & CSS
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Dat Science & Machine Learning
+- 💞️ I’m looking to collaborate on JavaScript and Python (Data Scince & Machine Learning)
+- 📫 Reach me on my Blog : https://radblok.onrender.com/
 
 <!---
 radlee/radlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
