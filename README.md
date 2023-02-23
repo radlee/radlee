@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/61ac58164464737.63f72d649fbb1.png">
+</h1>
+
 - 👋 Hi, I’m @radlee
 - 👀 I’m interested in HTML & CSS
 - 🌱 I’m currently learning ...
