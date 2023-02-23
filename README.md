@@ -3,8 +3,8 @@
 </h1>
 
 - 👋 Hi, I’m @radlee
-- 👀 I’m interested in HTML & CSS
-- 🌱 I’m currently learning Dat Science & Machine Learning
+- 👀 I’m interested in Data Science & Machine Learning,  JavaScript, HTML & CSS
+- 🌱 I’m currently learning Data Science & Machine Learning
 - 💞️ I’m looking to collaborate on JavaScript and Python (Data Scince & Machine Learning)
 - 📫 Reach me on my Blog : https://radblok.onrender.com/
 
