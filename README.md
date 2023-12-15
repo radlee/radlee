@@ -6,7 +6,7 @@
 - 👀 I’m interested in Data Science & Machine Learning,  JavaScript, HTML & CSS
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 💞️ I’m looking to collaborate on JavaScript and Python (Data Scince & Machine Learning)
-- 📫 Reach me on my Blog : https://radblok.onrender.com/
+- 📫 Reach me on my Blog : https://lolito.onrender.com/
 
 <!---
 radlee/radlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
